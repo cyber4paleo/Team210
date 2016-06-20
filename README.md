@@ -20,13 +20,20 @@ Minimum reporting recommendations for reproducibility 210Pb dating of sediments
 ##Alpha
 
 [St. Croix Watershed Research Station](https://www.smm.org/scwrs/facilities/laboratories)
+
 [Flett Research Radioisotope Services](http://www.flettresearch.ca/Home.html)
+
 [MyCore](http://mycore.ca/)
+
 [Centre D'études Nordiques](http://www.cen.ulaval.ca/en/page.aspx?lien=labradio)
+
 [Core Scientific International](http://www.corescientificinternationals.com/services.html)
+
 [GNS Science](http://www.gns.cri.nz/Home/Services/Laboratories-Facilities/Cosmogenic-Isotope-and-Radiochemistry-Laboratory/Sample-Processing/Sediment-dating-with-210Pb)
 
 ##Gamma
 [UCL Environmental Radiometric Facility](http://www.geog.ucl.ac.uk/about-the-department/support-services/ucl-environmental-radiometric-facility)
+
 [WHOI Coastal Systems Group](http://web.whoi.edu/coastal-group/about/how-we-work/lab-methods/gamma-analysis-and-isotope-dating/)
+
 [Daniel Bain - University of Pittsburgh](http://www.pitt.edu/~dbain/facilities.html)
