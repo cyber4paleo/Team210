@@ -38,5 +38,9 @@ Minimum reporting recommendations for reproducibility, age-model integrity, and 
 
 [Daniel Bain - University of Pittsburgh](http://www.pitt.edu/~dbain/facilities.html)
 
+[Jules Blais - University of Ottawa](http://mysite.science.uottawa.ca/jblais/staff-services.html)
+
+[PEARL - Queen's University, Canada](http://post.queensu.ca/~pearl/facilities%20and%20equipment.htm)
+
 ##Unknown
 [ANSTO](http://www.ansto.gov.au/ResearchHub/IER/Capabilities/IsotopicDating/index.htm)
