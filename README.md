@@ -1,6 +1,6 @@
 # Team210
 
-Minimum reporting recommendations for reproducibility 210Pb dating of sediments
+Minimum reporting recommendations for reproducibility, age-model integrity, and archiving of 210Pb sediment data
 
 # Team Members
   * Colin Courtney-Mustaphi -- University of York, York, England
