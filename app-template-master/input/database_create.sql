@@ -11,9 +11,4 @@ CREATE TABLE
   "ners" TEXT NOT NULL,
   "lemmas" TEXT NOT NULL,
   "dep_paths" TEXT NOT NULL,
-  "dep_parents" TEXT NOT NULL,
-  CONSTRAINT "fk_docid"
-    FOREIGN KEY ("docid")
-    REFERENCES "bibs" ("docid")
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION);
+  "dep_parents" TEXT NOT NULL);
